@@ -1,10 +1,10 @@
 This is a simple, short analysis. 
 
 <h1> Food Battle: The Tale of 2 Cities
-<img src="https://github.com/quang-phong/ project-8-food-battle-the-tale-of-2-cities/blob/main/media/gif/dog-says-hi.gif" width="80px">
+<img src="https://github.com/quang-phong/project-8-food-battle-the-tale-of-2-cities/blob/main/media/gif/dog-says-hi.gif" width="80px">
 </h1>
 
-<img align='right' src="https://github.com/quang-phong/ project-8-food-battle-the-tale-of-2-cities/blob/main/media/gif/city.gif" width="400px">
+<img align='right' src="https://github.com/quang-phong/project-8-food-battle-the-tale-of-2-cities/blob/main/media/gif/city.gif" width="400px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-@quangphong-0072b1?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/quangphong/)](https://www.linkedin.com/in/quangphong/) 
 [![Github Badge](https://img.shields.io/badge/-@quang--phong-171515?style=flat&logo=github&logoColor=white&link=https://github.com/quang-phong)](https://github.com/quang-phong)
