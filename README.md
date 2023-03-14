@@ -24,7 +24,7 @@ Representing (and sharing) the viewpoints of "young food addicts" who always hun
 
 
 ## 🧱 Structure?
-This repository contains 43 folders:
+This repository contains 3 folders:
 - **src**, including:
     + Jupyter Notebook
 - **deliverables**, including:
