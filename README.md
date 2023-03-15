@@ -1,5 +1,3 @@
-This is a simple, short analysis. 
-
 <h1> Food Battle: The Tale of 2 Cities
 <img src="https://github.com/quang-phong/project-8-food-battle-the-tale-of-2-cities/blob/main/media/gif/dog-says-hi.gif" width="80px">
 </h1>
